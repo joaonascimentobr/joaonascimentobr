@@ -117,6 +117,8 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=joaonascimentovr&show_icons=true&locale=en&layout=compact"
-        alt="joaonascimentovr" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+   
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joaonascimentobr&show_icons=true&count_private=true&theme=dark"></a>
+</p
