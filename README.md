@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">oLá 👋, Me João Nascimento</h1>
+<h1 align="center">Olá 👋, me João Nascimento</h1>
 <h3 align="center">Apaixonado por tecnologia desde sempre, hoje me divirto produzindo soluções de engenharia de software a mais de 5 anos e grande parte desse tempo foi dedicado à área
     mobile nativa iOS. Por algum tempo também atuei como Full Stack usando AngularJS + TS e Symfony framework em PHP.
 </h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=joaonascimentovr&label=Profile%20views&color=0e75b6&style=flat"
-        alt="joaonascimentovr" /> </p>
 
-- 🌱 I’m currently learning **Laravel e Flutter**
 
-- 📫 How to reach me **joaonascimento.com.br**
+<!-- - 🌱 Atualmente experimentando **Laravel e Flutter** -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- - 📫 How to reach me **joaonascimento.com.br** -->
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/joaonascimento.com.br" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
@@ -37,9 +35,9 @@ Here are some ideas to get you started:
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/devjoao/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/devjoao/" height="30" width="40" /></a>
-</p>
+</p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas que já usei:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
             alt="angularjs" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"
@@ -117,8 +115,11 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Github estatísticas</h1>
 <p align='center'>
-   
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joaonascimentobr&show_icons=true&count_private=true&theme=dark"></a>
-</p
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascimentobr&layout=donut&theme=dark"></img>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joaonascimentobr&show_icons=true&count_private=true&theme=dark"></a>
+</p>
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=joaonascimentovr&label=Profile%20views&color=0e75b6&style=flat"
+        alt="joaonascimentovr" /> </p>
