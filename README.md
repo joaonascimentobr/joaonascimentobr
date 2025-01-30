@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Olá 👋, me João Nascimento</h1>
-<h3 align="center">Apaixonado por tecnologia desde sempre, hoje me divirto produzindo soluções de engenharia de software a mais de 5 anos e grande parte desse tempo foi dedicado à área
-    mobile nativa iOS. Por algum tempo também atuei como Full Stack usando AngularJS + TS e Symfony framework em PHP.
-</h3>
+<p3 align="center">Apaixonado por tecnologia desde sempre, hoje me divirto produzindo soluções de engenharia de software a mais de 5 anos e, grande parte desse tempo foi dedicado à área
+    mobile nativa iOS. Por algum tempo também atuei como Full Stack usando AngularJS + TS e Symfony. Hoje uso Java para backend e frontend usando Spring e JSF.
+</p>
 
 
 
-<!-- - 🌱 Atualmente experimentando **Laravel e Flutter** -->
+- 🌱 Atualmente experimentando **Vue e Flutter**
 
-<!-- - 📫 How to reach me **joaonascimento.com.br** -->
+ - 📫 How to reach me **joaonascimento.com.br**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
