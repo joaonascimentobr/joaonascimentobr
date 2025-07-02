@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Olá 👋, me João Nascimento</h1>
-<p3 align="center">Apaixonado por tecnologia desde sempre, hoje me divirto produzindo soluções de engenharia de software a mais de 5 anos e, grande parte desse tempo foi dedicado à área
+<p3 align="center">Apaixonado por tecnologia desde sempre, hoje me divirto produzindo soluções de engenharia de software desde 2016 já no mercado de trabalho e, grande parte desse tempo foi dedicado à área
     mobile nativa iOS. Por algum tempo também atuei como Full Stack usando AngularJS + TS e Symfony. Hoje uso Java para backend e frontend usando Spring e JSF.
 </p>
 
